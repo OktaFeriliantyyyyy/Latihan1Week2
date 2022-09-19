@@ -1,4 +1,6 @@
-# Latihan1Week2
-Rekayasa Web Week 2
+#CobaRekWeb
+Respitory Matakuliah Rekyasa Web
 
-Ini tugaasnya Pak Albert Week 2 Latihan ke-1!
+Hallo ini addalah respitory pertama saya di github
+Saya menyukai☕🍜🍰
+Terima kasih
